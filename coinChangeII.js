@@ -1,3 +1,11 @@
+//coinChange is an epitome of knapsack problem
+//the fundamentals are simple, one could go top-down with recursion
+//or bottom-up with tabulation. 
+//at best, through tabulation, O(mn) time and O(n) space can be achieved
+//my problem thought, is that I wrote two functioning dfs recursion, with small variations.
+//yet one has significantlly faster runtime then the other. I couldn't figure out why, am bugging the hell out of me.
+
+
 //two ways as well
 //top down with recursion
 //bottom up with tabulation
